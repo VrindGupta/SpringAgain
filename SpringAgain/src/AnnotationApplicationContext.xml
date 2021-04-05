@@ -10,5 +10,5 @@
 		
 		<!-- Define beans here -->
 		
-		<context:component-scan base-package="SpringJavaAnnotationDI"></context:component-scan>
+		<context:component-scan base-package="SpringwithJava9"></context:component-scan>
 </beans>
