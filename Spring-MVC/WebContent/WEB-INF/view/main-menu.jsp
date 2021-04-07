@@ -12,6 +12,8 @@
 <hr>
 <a href="showForm">Hello World</a>
 
+<a href="student/showForm">Student registration</a>
+
 <br><br>
 
 <img src="${pageContext.request.contextPath}/resources/images/spring-logo.jpg" />
